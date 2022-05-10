@@ -1,0 +1,37 @@
+<html>
+<head>
+  <link rel="icon" type="image/x-icon" href="Immagini\penna.png">
+  <style>
+  * {
+background-color: black;
+    border: 0px;
+  }
+
+
+
+
+</style>
+<title>La scrivania di Watson</title>
+
+
+</head>
+<body>
+
+
+<img src="Immagini\Scrivania.jpg" style="width:200%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
